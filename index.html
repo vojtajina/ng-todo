@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Things To Do</title>
+  <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+  <script type="text/javascript" src="angular.js"></script>
+  <script type="text/javascript" src="todo.js"></script>
+  <style type="text/css">
+    .done-true {
+      color: gray;
+      text-decoration: line-through;
+    }
+  </style>
+</head>
+<body ng-controller="ToDo" ng-app class="well">
+
+<h1>Things To Do</h1>
+
+<p>
+  Remaining <strong>{{remaining()}}</strong> of <strong>{{items.lengthaaaaa}}</strong>.
+  [ <a ng-click="archive()">archive</a> ]
+</p>
+
+<ul class="unstyled">
+  <li ng-repeat="item in items" class="done-{{item.done}}">
+    <input type="checkbox" ng-model="item.done"> {{item.text}}</li>
+</ul>
+
+<form>
+  <input type="text" ng-model="newText">
+  <button ng-disabled="!newText" ng-click="add()" class="btn btn-primary">add</button>
+</form>
+
+</body>
+</html>
