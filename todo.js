@@ -1,12 +1,40 @@
-function ToDo($scope) {
-  $scope.items = [
-    {text: 'Try AngularJS', done: false},
-    {text: 'Visit Brighton', done: false}
-  ];
+var app = angular.module('todo', ['ngResource']);
+
+
+app.constant('apiKey', '4fc27c99e4b0401bdbfd1741');
+
+app.factory('Item', function($resource, apiKey) {
+  var Item = $resource('https://api.mongolab.com/api/1/databases/ng-todo/collections/items/:id', {
+    apiKey: apiKey
+  }, {
+    update: {method: 'PUT'}
+  });
+
+  Item.prototype.$remove = function() {
+    Item.remove({id: this._id.$oid});
+  };
+
+  Item.prototype.$update = function() {
+    return Item.update({id: this._id.$oid}, angular.extend({}, this, {_id: undefined}));
+  };
+
+  Item.prototype.done = false;
+
+  return Item;
+});
+
+
+app.controller('App', function($scope, Item) {
+
+  $scope.items = Item.query();
 
   $scope.add = function() {
-    $scope.items.push({text: $scope.newText, done: false});
+    var item = new Item({text: $scope.newText});
+    $scope.items.push(item);
     $scope.newText = '';
+
+    // save to mongolab
+    item.$save();
   };
 
   $scope.remaining = function() {
@@ -17,7 +45,11 @@ function ToDo($scope) {
 
   $scope.archive = function() {
     $scope.items = $scope.items.filter(function(item) {
-      return !item.done;
+      if (item.done) {
+        item.$remove();
+        return false;
+      }
+      return true;
     });
   };
-}
+});

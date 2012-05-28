@@ -5,6 +5,7 @@
   <title>Things To Do</title>
   <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
   <script type="text/javascript" src="angular.js"></script>
+  <script type="text/javascript" src="angular-resource.js"></script>
   <script type="text/javascript" src="todo.js"></script>
   <style type="text/css">
     .done-true {
@@ -13,18 +14,18 @@
     }
   </style>
 </head>
-<body ng-controller="ToDo" ng-app class="well">
+<body ng-app="todo" ng-controller="App" class="well">
 
 <h1>Things To Do</h1>
 
 <p>
-  Remaining <strong>{{remaining()}}</strong> of <strong>{{items.lengthaaaaa}}</strong>.
+  Remaining <strong>{{remaining()}}</strong> of <strong>{{items.length}}</strong>.
   [ <a ng-click="archive()">archive</a> ]
 </p>
 
 <ul class="unstyled">
   <li ng-repeat="item in items" class="done-{{item.done}}">
-    <input type="checkbox" ng-model="item.done"> {{item.text}}</li>
+    <input type="checkbox" ng-model="item.done" ng-change="item.$update()"> {{item.text}}</li>
 </ul>
 
 <form>

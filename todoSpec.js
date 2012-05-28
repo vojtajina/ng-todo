@@ -1,18 +1,17 @@
+beforeEach(module('todo'));
 
+describe('App', function() {
+	var scope;
 
-describe('ToDo', function() {
-	var scope, ctrl;
+  beforeEach(module('mocks.Item'));
 
-	beforeEach(function($httpBackend) {
-		scope = {};
-		ctrl = new ToDo(scope);
-	});
+	beforeEach(inject(function($controller, $rootScope) {
+    // store reference to scope, so that we can access it from the specs
+    scope = $rootScope.$new();
 
-	it('should init items', function() {
-		expect(scope.items).toBeDefined();
-		expect(scope.items.length).toBeGreaterThan(1);
-	});
-
+    // instantiate the controller
+	  $controller('App', {$scope: scope});
+	}));
 
 	describe('add', function() {
 		it('should add new task', function() {
@@ -21,7 +20,6 @@ describe('ToDo', function() {
 			scope.add();
 
 			expect(scope.items.length).toBe(1);
-			expect(scope.items[0].done).toBe(false);
 			expect(scope.items[0].text).toBe('FAKE TASK');
 		});
 
@@ -35,7 +33,7 @@ describe('ToDo', function() {
 	});
 
 
-	describe('remaining', function() {
+  describe('remaining', function() {
 
 		it('should return number of tasks that are not done', function() {
 			scope.items = [{done: false}, {done: false}, {done: false}, {done: false}];
@@ -50,11 +48,12 @@ describe('ToDo', function() {
 	describe('archive', function() {
 
 		it('should remove tasks that are done', function() {
-			scope.items = [{id: 1, done: true}, {id: 2, done: false}, {id: 3, done: true}];
-			scope.archive();
+      scope.items = [new MockItem({done: false}), new MockItem({done: true}), new MockItem({done: false})];
+//      scope.items = [{done: false}, {done: true}, {done: false}];
+      expect(scope.items.length).toBe(3);
 
-			expect(scope.items.length).toBe(1);
-			expect(scope.items[0].id).toBe(2);
+			scope.archive();
+			expect(scope.items.length).toBe(2);
 		});
 	});
 });
