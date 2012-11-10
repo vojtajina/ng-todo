@@ -8,6 +8,10 @@ For running unit test, install [Testacular](http://vojtajina.github.com/testacul
 
     sudo npm install -g testacular
 
+And run the tests with:
+
+    testacular start
+
 
 ### Slides
 This simple app was made during my talk, slides can be found [here](http://vojtajina.github.com/html5la/2012-05-30-boston/index.html).
