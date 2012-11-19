@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<solution>
+		<serverStartup stopIfProjectFails="true" />
+		<directory authenticationType="basic"/>
+	</solution>
+	<database adaptiveCache="false" memoryForOtherApplications="512" memoryForCache="50" minimumSize="100" maximumSize="400" fixedSize="200" keepCacheInMemory="true" flushDataCacheInterval="15"/>
+</settings>

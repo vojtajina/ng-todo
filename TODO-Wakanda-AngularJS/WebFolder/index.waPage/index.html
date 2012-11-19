@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html ng-app="todo">
+<head>
+  <meta charset="utf-8">
+  <title>Things To Do</title>
+  <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+  <script src="angular.js" type="text/javascript"></script>
+  <script src="angular-resource.js" type="text/javascript"></script>
+  <script src="wakanda-resource.js" type="text/javascript"></script>
+  <script src="todo.js" type="text/javascript"></script>
+  <style type="text/css">
+    .done-true {
+      color: gray;
+      text-decoration: line-through;
+    }
+  </style>
+</head>
+<body ng-controller="Todo" class="well">
+
+<h1>Things To Do</h1>
+
+<p>
+  Remaining <strong>{{remaining()}}</strong> of <strong>{{items.length}}</strong>.
+  [ <a ng-click="archive()">archive</a> ]
+</p>
+
+<ul class="unstyled">
+  <li ng-repeat="item in items" class="done-{{item.done}}">
+    <input ng-model="item.done" ng-change="item.$update()" type="checkbox">
+    {{item.text}}
+  </li>
+</ul>
+
+<form>
+  <input ng-model="newText" type="text">
+  <button ng-click="add()" ng-disabled="!newText" class="btn btn-primary">add</button>
+</form>
+
+</body>
+</html>

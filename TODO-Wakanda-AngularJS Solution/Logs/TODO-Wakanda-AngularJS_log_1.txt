@@ -1,0 +1,727 @@
+2012-11-05 15:57:22 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-05 15:57:22 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-05 15:57:22 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 17 ms)
+2012-11-05 15:57:22 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-05 15:57:22 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 47 ms)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 54 ms)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 3 ms)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 118 ms)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 16 ms)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 41 ms)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 15 ms)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 38 ms)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 7 ms)
+2012-11-05 15:57:23 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 88 ms)
+2012-11-05 16:06:30 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-05 16:06:30 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 420 ms)
+2012-11-05 16:06:30 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-05 16:06:30 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 80 ms)
+2012-11-05 16:28:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-05 16:28:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 444 ms)
+2012-11-05 16:28:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-05 16:28:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 46 ms)
+2012-11-05 18:11:16 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [1] ReferenceError: Can't find variable: angular, HTTP connection handler
+2012-11-05 18:11:16 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/Wak-Support-PC/Documents/Wakanda/TODO-Wakanda-AngularJS/TODO-Wakanda-AngularJS/WebFolder/ng-todo-wakanda.waPage/todo.js, HTTP connection handler
+2012-11-05 18:11:16 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [1] ReferenceError: Can't find variable: angular, HTTP connection handler
+2012-11-05 18:11:16 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/Wak-Support-PC/Documents/Wakanda/TODO-Wakanda-AngularJS/TODO-Wakanda-AngularJS/WebFolder/ng-todo-wakanda.waPage/todo.js, HTTP connection handler
+2012-11-05 18:11:16 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-05 18:11:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 822 ms)
+2012-11-05 18:11:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-05 18:11:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 342 ms)
+2012-11-05 18:11:28 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-05 18:11:28 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 403 ms)
+2012-11-05 18:11:28 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-05 18:11:28 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 16 ms)
+2012-11-06 11:58:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-06 11:58:21 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 1245 ms)
+2012-11-06 11:58:21 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-06 11:58:23 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 1306 ms)
+2012-11-06 12:45:40 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-06 12:45:40 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 403 ms)
+2012-11-06 12:45:40 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-06 12:45:40 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 19 ms)
+2012-11-06 12:47:18 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-06 12:47:18 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 403 ms)
+2012-11-06 12:47:18 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-06 12:47:18 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 15 ms)
+2012-11-06 12:56:04 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-06 12:56:04 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-06 12:56:06 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 2203 ms)
+2012-11-06 12:56:06 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-06 12:56:08 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2062 ms)
+2012-11-06 12:56:08 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 4267 ms)
+2012-11-06 12:56:08 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-06 12:56:08 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-06 12:56:08 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-06 12:56:09 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 430 ms)
+2012-11-06 12:56:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 1959 ms)
+2012-11-06 12:56:10 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-06 12:56:11 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 154 ms)
+2012-11-06 12:56:11 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 2773 ms)
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 23 ms)
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 7 ms)
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 188 ms)
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 308 ms)
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-06 12:56:24 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.xbox] ERROR - [1] Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée.
+
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [31] Failed to create a listening socket
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [12] Failed to start listener
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.xbox] ERROR - [1] Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée.
+
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [31] Failed to create a listening socket
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [12] Failed to start listener
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.xbox] ERROR - [1] Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée.
+
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [31] Failed to create a listening socket
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [12] Failed to start listener
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.xbox] ERROR - [1] Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée.
+
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [31] Failed to create a listening socket
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [12] Failed to start listener
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.xbox] ERROR - [1] Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée.
+
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [31] Failed to create a listening socket
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [12] Failed to start listener
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.iasv] ERROR - [1034] Cannot start the HTTP Server
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.iasv] ERROR - [1014] Cannot start 'TODO-Wakanda-AngularJS' project
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 55 ms)
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 0 ms)
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-06 12:56:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-06 12:56:30 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 425 ms)
+2012-11-06 12:56:30 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 426 ms)
+2012-11-06 12:56:30 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-06 12:56:30 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 0 ms)
+2012-11-06 12:56:30 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 875 ms)
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 23 ms)
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 33 ms)
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 39 ms)
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 3 ms)
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 89 ms)
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-06 12:57:14 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.xbox] ERROR - [1] Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée.
+
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [31] Failed to create a listening socket
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [12] Failed to start listener
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.xbox] ERROR - [1] Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée.
+
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [31] Failed to create a listening socket
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [12] Failed to start listener
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.xbox] ERROR - [1] Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée.
+
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [31] Failed to create a listening socket
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [12] Failed to start listener
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.xbox] ERROR - [1] Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée.
+
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [31] Failed to create a listening socket
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [12] Failed to start listener
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.xbox] ERROR - [1] Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée.
+
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [31] Failed to create a listening socket
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.srvr] ERROR - [12] Failed to start listener
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.iasv] ERROR - [1034] Cannot start the HTTP Server
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.iasv] ERROR - [1014] Cannot start 'TODO-Wakanda-AngularJS' project
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 58 ms)
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 0 ms)
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-06 12:57:19 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-06 12:57:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 409 ms)
+2012-11-06 12:57:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 409 ms)
+2012-11-06 12:57:20 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-06 12:57:20 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 0 ms)
+2012-11-06 12:57:20 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 812 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 16 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 6 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 13 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 3 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 63 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 15 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 39 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 15 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 39 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-11-06 12:58:39 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 85 ms)
+2012-11-06 13:28:40 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [1] Error on line 2. SyntaxError: Return statements are only valid inside functions, HTTP connection handler
+2012-11-06 13:28:40 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/Wak-Support-PC/Documents/Wakanda/TODO-Wakanda-AngularJS/TODO-Wakanda-AngularJS/testServerSide.js, HTTP connection handler
+2012-11-06 13:28:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [1] Error on line 2. SyntaxError: Return statements are only valid inside functions, HTTP connection handler
+2012-11-06 13:28:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/Wak-Support-PC/Documents/Wakanda/TODO-Wakanda-AngularJS/TODO-Wakanda-AngularJS/testServerSide.js, HTTP connection handler
+2012-11-06 13:34:18 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [1] Error on line 4. SyntaxError: Unexpected token ',', HTTP connection handler
+2012-11-06 13:34:18 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/Wak-Support-PC/Documents/Wakanda/TODO-Wakanda-AngularJS/TODO-Wakanda-AngularJS/testServerSide.js, HTTP connection handler
+2012-11-06 13:34:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [1] Error on line 4. SyntaxError: Unexpected token ',', HTTP connection handler
+2012-11-06 13:34:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/Wak-Support-PC/Documents/Wakanda/TODO-Wakanda-AngularJS/TODO-Wakanda-AngularJS/testServerSide.js, HTTP connection handler
+2012-11-06 13:34:21 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [1] Error on line 4. SyntaxError: Unexpected token ',', HTTP connection handler
+2012-11-06 13:34:21 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/Wak-Support-PC/Documents/Wakanda/TODO-Wakanda-AngularJS/TODO-Wakanda-AngularJS/testServerSide.js, HTTP connection handler
+2012-11-06 13:35:57 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [1] ReferenceError: Can't find variable: angular, HTTP connection handler
+2012-11-06 13:35:57 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.JS4D] ERROR - [2] Error evaluating javascript file:///C:/Users/Wak-Support-PC/Documents/Wakanda/TODO-Wakanda-AngularJS/TODO-Wakanda-AngularJS/WebFolder/ng-todo-wakanda.waPage/todo.js, HTTP connection handler
+2012-11-07 10:14:45 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-07 10:14:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-07 10:14:48 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 2542 ms)
+2012-11-07 10:14:48 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-07 10:14:50 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2043 ms)
+2012-11-07 10:14:50 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 4725 ms)
+2012-11-07 10:14:50 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-07 10:14:50 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-07 10:14:50 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-07 10:14:50 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 850 ms)
+2012-11-07 10:14:51 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 1031 ms)
+2012-11-07 10:14:51 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-07 10:14:51 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 96 ms)
+2012-11-07 10:14:51 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 1828 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 229 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 64 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 155 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 38 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 494 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 43 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 199 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 48 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 136 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 24 ms)
+2012-11-07 15:37:20 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 362 ms)
+2012-11-09 21:06:03 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-09 21:06:03 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-09 21:06:03 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 220 ms)
+2012-11-09 21:06:03 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 43 ms)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 112 ms)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 42 ms)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 418 ms)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 34 ms)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 275 ms)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 32 ms)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 152 ms)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 14 ms)
+2012-11-09 21:06:04 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 445 ms)
+2012-11-11 09:37:55 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-11 09:37:55 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 231 ms)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 29 ms)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 79 ms)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 41 ms)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 396 ms)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 31 ms)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 204 ms)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 32 ms)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 128 ms)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 11 ms)
+2012-11-11 09:37:56 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 346 ms)
+2012-11-11 10:01:37 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-11 10:01:37 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-11 10:01:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 1075 ms)
+2012-11-11 10:01:38 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-11 10:01:40 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2079 ms)
+2012-11-11 10:01:40 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 3154 ms)
+2012-11-11 10:01:40 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-11 10:01:40 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-11 10:01:40 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-11 10:01:40 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 463 ms)
+2012-11-11 10:01:40 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 465 ms)
+2012-11-11 10:01:40 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-11 10:01:40 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2012-11-11 10:01:41 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 875 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 54 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 7 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 19 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 111 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 38 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 92 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 35 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 83 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-11-11 10:01:45 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 188 ms)
+2012-11-11 10:04:07 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-11 10:04:07 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-11 10:04:08 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 1095 ms)
+2012-11-11 10:04:08 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-11 10:04:10 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2075 ms)
+2012-11-11 10:04:10 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 3171 ms)
+2012-11-11 10:04:10 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-11 10:04:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-11 10:04:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-11 10:04:11 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 479 ms)
+2012-11-11 10:04:11 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 515 ms)
+2012-11-11 10:04:11 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-11 10:04:11 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2012-11-11 10:04:11 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 933 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 52 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 8 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 21 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 112 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 30 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 92 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 31 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 76 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-11-11 10:04:15 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 185 ms)
+2012-11-11 10:08:53 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-11 10:08:53 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-11 10:08:54 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 1080 ms)
+2012-11-11 10:08:54 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-11 10:08:56 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2075 ms)
+2012-11-11 10:08:56 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 3156 ms)
+2012-11-11 10:08:56 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-11 10:08:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-11 10:08:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-11 10:08:56 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 405 ms)
+2012-11-11 10:08:57 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 419 ms)
+2012-11-11 10:08:57 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-11 10:08:57 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 58 ms)
+2012-11-11 10:08:57 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 884 ms)
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 60 ms)
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 8 ms)
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 24 ms)
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 122 ms)
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-11 10:09:00 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 32 ms)
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 92 ms)
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 33 ms)
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 87 ms)
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-11-11 10:09:01 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 196 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 72 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 7 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 23 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 10 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 145 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 38 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 127 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 38 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 95 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 13 ms)
+2012-11-12 17:09:54 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 245 ms)
+2012-11-12 19:16:27 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-12 19:16:27 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-12 19:16:28 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 1063 ms)
+2012-11-12 19:16:28 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-12 19:16:30 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2081 ms)
+2012-11-12 19:16:30 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 3145 ms)
+2012-11-12 19:16:30 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-12 19:16:30 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-12 19:16:30 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-12 19:16:31 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 408 ms)
+2012-11-12 19:16:31 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 410 ms)
+2012-11-12 19:16:31 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-12 19:16:31 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2012-11-12 19:16:31 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 823 ms)
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 79 ms)
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 12 ms)
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 30 ms)
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 154 ms)
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 32 ms)
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 97 ms)
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-14 02:58:52 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-14 02:58:53 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 36 ms)
+2012-11-14 02:58:53 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 92 ms)
+2012-11-14 02:58:53 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-14 02:58:53 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-11-14 02:58:53 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-14 02:58:53 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 11 ms)
+2012-11-14 02:58:53 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 208 ms)
+2012-11-15 09:42:38 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-15 09:42:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-15 09:42:40 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 1115 ms)
+2012-11-15 09:42:40 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-15 09:42:42 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2072 ms)
+2012-11-15 09:42:42 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 3188 ms)
+2012-11-15 09:42:42 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-15 09:42:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-15 09:42:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-15 09:42:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 417 ms)
+2012-11-15 09:42:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 419 ms)
+2012-11-15 09:42:42 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-15 09:42:42 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2012-11-15 09:42:42 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 838 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 14 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 6 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 20 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 76 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 30 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 88 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 35 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 88 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 11 ms)
+2012-11-15 11:24:38 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 195 ms)
+2012-11-15 11:27:12 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-15 11:27:12 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-15 11:27:13 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 1066 ms)
+2012-11-15 11:27:13 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-15 11:27:15 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2069 ms)
+2012-11-15 11:27:15 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 3136 ms)
+2012-11-15 11:27:15 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-15 11:27:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-15 11:27:15 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-15 11:27:16 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 405 ms)
+2012-11-15 11:27:16 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 407 ms)
+2012-11-15 11:27:16 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-15 11:27:16 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2012-11-15 11:27:16 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 816 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 11 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 6 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 18 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 73 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 32 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 84 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 36 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 85 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-11-15 11:28:10 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 186 ms)
+2012-11-15 14:33:47 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-15 14:33:47 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-15 14:33:48 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 1076 ms)
+2012-11-15 14:33:48 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-15 14:33:50 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2081 ms)
+2012-11-15 14:33:50 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 3157 ms)
+2012-11-15 14:33:50 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-15 14:33:50 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-15 14:33:50 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-15 14:33:50 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 407 ms)
+2012-11-15 14:33:50 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 409 ms)
+2012-11-15 14:33:50 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-15 14:33:50 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2012-11-15 14:33:51 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 826 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 16 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 6 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 19 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 78 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 31 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 84 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 33 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 80 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 11 ms)
+2012-11-15 14:34:06 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 183 ms)
+2012-11-15 18:12:37 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-15 18:12:37 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-15 18:12:39 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 1066 ms)
+2012-11-15 18:12:39 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-15 18:12:41 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2067 ms)
+2012-11-15 18:12:41 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 3134 ms)
+2012-11-15 18:12:41 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-15 18:12:41 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-15 18:12:41 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-15 18:12:41 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 406 ms)
+2012-11-15 18:12:41 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 409 ms)
+2012-11-15 18:12:41 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-15 18:12:41 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2012-11-15 18:12:41 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 825 ms)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 16 ms)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 6 ms)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 18 ms)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 12 ms)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 81 ms)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 15 ms)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 49 ms)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 34 ms)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 88 ms)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS.iasv] ERROR - [1053] Cannot execute bootstrap file
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 4 ms)
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.iasv] ERROR - [1014] Cannot start 'TODO-Wakanda-AngularJS' project
+2012-11-15 18:13:29 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-15 18:13:30 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 1031 ms)
+2012-11-15 18:13:30 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-15 18:13:30 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-15 18:13:32 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2071 ms)
+2012-11-15 18:13:32 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 2071 ms)
+2012-11-15 18:13:32 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-15 18:13:32 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-15 18:13:32 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-15 18:13:33 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 411 ms)
+2012-11-15 18:13:33 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 411 ms)
+2012-11-15 18:13:33 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-15 18:13:33 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 0 ms)
+2012-11-15 18:13:33 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 823 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 11 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 7 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 18 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 71 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 16 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 45 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 33 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 88 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-11-15 18:14:17 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 146 ms)
+2012-11-15 20:29:08 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-15 20:29:08 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-15 20:29:09 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 1046 ms)
+2012-11-15 20:29:09 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-15 20:29:12 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2102 ms)
+2012-11-15 20:29:12 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 3148 ms)
+2012-11-15 20:29:12 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-15 20:29:12 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-15 20:29:12 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-15 20:29:12 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 405 ms)
+2012-11-15 20:29:12 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 408 ms)
+2012-11-15 20:29:12 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-15 20:29:12 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2012-11-15 20:29:12 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 818 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 78 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 13 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 30 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 153 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 16 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 53 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 35 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 100 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 11 ms)
+2012-11-16 12:04:42 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 167 ms)
+2012-11-17 00:14:22 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Stopping the solution
+2012-11-17 00:14:22 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Stopping the project
+2012-11-17 00:14:23 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project stopped (duration: 1054 ms)
+2012-11-17 00:14:23 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Stopping the project
+2012-11-17 00:14:25 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project stopped (duration: 2085 ms)
+2012-11-17 00:14:25 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution stopped (duration: 3140 ms)
+2012-11-17 00:14:25 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Closing the solution
+2012-11-17 00:14:25 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the project
+2012-11-17 00:14:25 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Closing the database
+2012-11-17 00:14:25 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database closed (duration: 409 ms)
+2012-11-17 00:14:25 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project closed (duration: 410 ms)
+2012-11-17 00:14:25 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Closing the project
+2012-11-17 00:14:25 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2012-11-17 00:14:26 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution closed (duration: 823 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the solution
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Opening the users and groups directory
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Users and groups directory opened (duration: 75 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the project
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Opening the database
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Database opened (duration: 12 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project opened (duration: 29 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Opening the project
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution opened (duration: 152 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Starting the solution
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the project
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Starting the HTTP server
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - HTTP server started (duration: 16 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Project started (duration: 54 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the project
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Starting the HTTP server
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - HTTP server started (duration: 34 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Project started (duration: 100 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Executing the bootstrap(s)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.TODO-Wakanda-AngularJS] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS.ServerAdmin] INFO - Bootstrap(s) executed (duration: 11 ms)
+2012-11-19 15:48:27 [com.wakanda-software.TODO-Wakanda-AngularJS] INFO - Solution started (duration: 168 ms)
