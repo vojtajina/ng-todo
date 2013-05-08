@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>Things To Do</title>
   <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+  <link href="animations.css" rel="stylesheet">
   <script type="text/javascript" src="angular.js"></script>
   <script type="text/javascript" src="angular-resource.js"></script>
   <script type="text/javascript" src="todo.js"></script>
@@ -24,7 +25,7 @@
 </p>
 
 <ul class="unstyled">
-  <li ng-repeat="item in items" class="done-{{item.done}}">
+  <li ng-repeat="item in items" ng-class="'done-'+item.done" ng-animate="'repeat'">
     <input type="checkbox" ng-model="item.done" ng-change="item.$update()"> {{item.text}}</li>
 </ul>
 
