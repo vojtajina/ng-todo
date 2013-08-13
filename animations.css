@@ -10,22 +10,12 @@ li {
   transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.7s;
 }
 
-.repeat-enter-setup {
+.repeat-enter, .repeat-leave {
   height: 0;
   opacity: 0;
 }
 
-.repeat-enter-start {
+.repeat-enter-active {
   height: 20px;
   opacity: 1;
-}
-
-.repeat-leave-setup {
-  height: 20px;
-  opacity: 1;
-}
-
-.repeat-leave-start {
-  height: 0;
-  opacity: 0;
 }
