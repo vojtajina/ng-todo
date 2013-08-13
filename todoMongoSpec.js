@@ -23,6 +23,7 @@ describe('App with Mongo', function() {
     $controller('App', {$scope: $rootScope});
 
     // flush pending requests
+    $rootScope.$digest();
     $httpBackend.flush();
 
     // store references to access them in specs
@@ -46,6 +47,8 @@ describe('App with Mongo', function() {
 
       scope.newText = 'FAKE TASK';
       scope.add();
+
+      scope.$digest();
     });
   });
 
@@ -63,6 +66,8 @@ describe('App with Mongo', function() {
 
       scope.archive();
       expect(scope.items.length).toBe(2);
+
+      scope.$digest();
     });
   });
 });
