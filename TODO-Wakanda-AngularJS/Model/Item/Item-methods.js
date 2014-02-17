@@ -1,0 +1,1 @@
+(model.Item.methods.getItems = function () {								var Items = ds.Item.toArray();				return Items;			}).scope = "public";

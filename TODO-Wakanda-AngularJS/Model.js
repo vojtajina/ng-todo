@@ -1,16 +1,1 @@
-﻿
-guidedModel =// @startlock
-{
-	Item :
-	{
-		methods :
-		{// @endlock
-			getItems:function()
-			{// @lock
-				
-				var Items = ds.Item.toArray();
-				return Items;
-			}// @startlock
-		}
-	}
-};// @endlock
+// converted from guided modelinclude("./Model/Item/Item-events.js");include("./Model/Item/Item-methods.js");
