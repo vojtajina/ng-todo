@@ -13,7 +13,7 @@ And start Testacular, to run tests on save:
 
 
 ### Slides
-This simple app was made during my talk, slides can be found [here](http://vojtajina.github.com/html5la/2012-05-30-boston/index.html).
+This simple app was made during my talk, video can be found [here](http://www.youtube.com/watch?v=-nuyKAWVPzs).
 
 Thanks [Elliott](http://github.com/esprehn) for original version of these awesome slides.
 

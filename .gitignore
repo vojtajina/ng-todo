@@ -1,0 +1,29 @@
+# OS X
+*.DS_Store
+._*
+# Wakanda data
+*.waData
+# Wakanda preferences
+*.waPreferences
+# Wakanda log
+*.waLog
+*/Logs
+studio_log*
+# Wakanda code symbols
+*.waSym
+*.waSymData
+# Wakanda index
+*.waIndex
+*.waIndx
+*.Match
+# Wakanda User and Group cache
+*.cacheUAG
+# Wakanda breakpoints
+breakpoints.json
+# Wakanda session ID cache
+sessionID.json
+# Wakanda backup
+*.waBackup
+# Wakanda Remote Model Cache
+*.waRemoteModel
+
