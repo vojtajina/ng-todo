@@ -26,4 +26,5 @@ sessionID.json
 *.waBackup
 # Wakanda Remote Model Cache
 *.waRemoteModel
-
+# local only
+*nogit
