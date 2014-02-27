@@ -1,0 +1,1 @@
+guidedModel ={	Item :	{		methods :		{			getItems:function()			{								var Items = ds.Item.toArray();				return Items;			}		}	}};
