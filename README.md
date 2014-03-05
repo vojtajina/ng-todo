@@ -1,6 +1,6 @@
 # Simple TODO App in [AngularJS](http://angularjs.org)
 
-This branch use **[Wakanda](http://www.wakanda.org/)** as Backend.
+This branch use **[Wakanda](http://www.wakanda.org/)** as Backend. Live version [here](http://ng-todo.waktest.com/).
 
 ### Unit tests
 For running unit test, install [Testacular](http://vojtajina.github.com/testacular):
