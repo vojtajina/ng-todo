@@ -1,4 +1,4 @@
-var app = angular.module('todo', ['ngResource', 'ngAnimate']);
+var app = angular.module('todo', ['ngResource']);
 
 
 app.constant('apiKey', '4fc27c99e4b0401bdbfd1741');
