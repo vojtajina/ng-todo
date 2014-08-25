@@ -8,7 +8,6 @@
   <script type="text/javascript" src="bower_components/angular/angular.js"></script>
   <script type="text/javascript" src="bower_components/angular-animate/angular-animate.js"></script>
   <script type="text/javascript" src="bower_components/angular-resource/angular-resource.js"></script>
-  <script type="text/javascript" src="bower_components/angular-route/angular-route.js"></script>
   <script type="text/javascript" src="todo.js"></script>
   <style type="text/css">
     .done-true {
@@ -27,7 +26,7 @@
 </p>
 
 <ul class="unstyled">
-  <li ng-repeat="item in items track by item.id" ng-class="'done-'+item.done">
+  <li ng-repeat="item in items" ng-class="'done-'+item.done">
     <input type="checkbox" ng-model="item.done" ng-change="item.$update()"> {{item.text}}</li>
 </ul>
 
